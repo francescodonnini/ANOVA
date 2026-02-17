@@ -1,7 +1,7 @@
 [project]
 name = "anova"
 version = "0.1.0"
-description = "Add your description here"
+description = "Test ANOVA per la prova pratica di statistica"
 requires-python = ">=3.13"
 dependencies = [
     "jupyterlab>=4.5.3",
